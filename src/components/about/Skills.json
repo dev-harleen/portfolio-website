@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Java",
+        "imageSrc": "skills/react.svg"    
+    },
+    {
+        "title": "React Native",
+             "imageSrc": "skills/react-native.svg"
+    },
+    {
+        "title": "Spring Boot",
+        "imageSrc": "skills/react.svg"    
+    },
+    {
+         "imageSrc": "skills/express.svg",
+        "title": "Express"    
+    },
+    {
+        "title": "NodeJs",
+        "imageSrc": "skills/nodejs.svg"    
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "skills/postman.svg"    
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html5.svg"    
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css3.svg"    
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.svg"    
+    },
+    {
+        "title": "Sass",
+         "imageSrc": "skills/sass.svg"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.svg"    
+    },
+    {
+        "title": "MaterialUI",
+        "imageSrc": "skills/react.svg"    
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/react.svg"    
+    },
+    {
+        "title": "Mongo Db",
+        "imageSrc": "skills/mongodb.svg"    
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.svg"    
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.svg"    
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "skills/typescript-original.svg"    
+    }
+
+]
