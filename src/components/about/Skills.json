@@ -1,7 +1,7 @@
 [
     {
         "title": "Java",
-        "imageSrc": "skills/react.svg"    
+        "imageSrc": "skills/java.svg"    
     },
     {
         "title": "React Native",
@@ -9,7 +9,7 @@
     },
     {
         "title": "Spring Boot",
-        "imageSrc": "skills/react.svg"    
+        "imageSrc": "skills/spring-boot.svg"    
     },
     {
          "imageSrc": "skills/express.svg",
@@ -45,11 +45,11 @@
     },
     {
         "title": "MaterialUI",
-        "imageSrc": "skills/react.svg"    
+        "imageSrc": "skills/material-ui.svg"    
     },
     {
         "title": "MySQL",
-        "imageSrc": "skills/react.svg"    
+        "imageSrc": "skills/mysql.svg"    
     },
     {
         "title": "Mongo Db",
