@@ -12,7 +12,7 @@ function App() {
   }, []);
   return (
     <div>
-      <Navbar expand="lg" className="bg-body-tertiary" sticky="top">
+      <Navbar expand="lg" className="bg-white shadow" sticky="top">
         <Container>
           <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
